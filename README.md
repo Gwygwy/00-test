@@ -1,2 +1,2 @@
-# 00-test
-Gere tous les scripts hydra dragon ect..
+# 01-input
+Gere tous les scripts input hydra dragon ect..
